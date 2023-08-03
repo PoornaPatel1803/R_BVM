@@ -1,9 +1,9 @@
 print(".....Profile Display.....")
 
-name <- "Prince Beladiya"
-id <-"22IT605"
-mobile <-"+91 9276805970"
-Address <- "206, Radha Kirtan Apartment, Vallabh Vidhyanagar, Anand"
+name <- "Poorna Patel"
+id <-"22IT607"
+mobile <-"+91 8866123663"
+Address <- "D-503 Samanvay Sparsh Vadsar"
 
 cat ("name : ",name,"| ID Number : ",id,"| Mobile Number : ",mobile,"| Address : ",Address)
 
